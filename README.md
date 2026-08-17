@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Amit Kumar Shaw:
 I am Amit Kumar Shaw MCA student and BCA graduate with a strong interest in Data Analytics, Data Science, Machine Learning, and AI.<br>📊 I enjoy working with data to discover patterns, build insights, and solve real-world problems.<br>🔭 Currently working on: Data Analytics and Machine Learning projects<br>🤝 Looking to collaborate on: Data Analytics, Machine Learning, and AI projects<br>🌱 Currently learning: Advanced Machine Learning, SQL, Data Visualization, and Generative AI<br>💬 Ask me about: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Excel, Tableau, and Machine Learning<br>⚡ Fun fact: I enjoy turning raw datasets into meaningful insights and practical solutions.
 
 
