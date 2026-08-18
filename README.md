@@ -12,6 +12,6 @@ I am Amit Kumar Shaw MCA student and BCA graduate with a strong interest in Data
 ![](https://streak-stats.demolab.com/?user=RealAmitKumarShaw&theme=dark&hide_border=false)<br/>
 
 ---
-<!-- [![](https://komarev.com/ghpvc/?username=RealAmitKumarShaw&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://komarev.com/ghpvc/?username=RealAmitKumarShaw&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
