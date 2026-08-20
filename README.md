@@ -62,15 +62,6 @@ I am Amit Kumar Shaw, an MCA student and BCA graduate with a strong interest in 
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealAmitKumarShaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAmitKumarShaw&layout=compact&langs_count=8&hide_border=true&theme=dark" height="180"/>
-</p>
-
----
-
 # 🚀 Currently Learning:
 
 - 📊 Data Analytics
